@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Robert Spurlin: Blog"
+redirect_from: "/blog"
+nav_item: blog
+nav_item_blog: all
+header_title: Blog
+include_header: writing_header.html
+---
+
+{% include writing-nav.html %}
+{% for post in paginator.posts %}
+  {% include post-outline.html post=post %}
+{% endfor %}
+{% include pagination.html %}
