@@ -1,15 +1,8 @@
-# Yevgeniy Brikman Home Page
+# Robert Spurlin Home Page
 
-This is the code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is the code for the [Robert Spurlin Home Page](https://robertspurlin.com) - a fork from [Yevgeniy Brikman's Home Page](httpsL//www.ybrikman.com).
 
-![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
-
-I wanted a clean, simple home page where I could put my writing, speaking,
-projects, and photos. It had to be fast, mobile-friendly, free to build, and
-easy to update. This is the result. Forks and pull requests are welcome!
-
-Check out [Migrating from Blogger to GitHub Pages and launching the new ybrikman.com](https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
-for background info.
+One of my first real dives into static page generators in an effort to make my personal website more maintainable and less costly to upkeep. Also, it now houses my blog and has potential to be the home for more things in the future - stay turned. 
 
 
 
@@ -58,12 +51,8 @@ yevgeniy-brikman-homepage that has all the dependencies already setup for you.
    [Google Fonts](https://www.google.com/fonts) for styling.
 1. I used [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/),
    and [responsive-nav.js](http://responsive-nav.com/) for behavior.
-1. I added [Disqus](https://disqus.com/websites/) as a commenting system.
-1. I'm using [UptimeRobot](http://uptimerobot.com/) and
-   [Google Analytics](http://www.google.com/analytics/) for monitoring and
+1. I'm using [Google Analytics](http://www.google.com/analytics/) for monitoring and
    metrics.
-1. Most of the blog posts were imported from my old Blogger account, so there
-   are a few hacky Ruby scripts in `_scripts` left over from that migration.
 
 
 
