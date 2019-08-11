@@ -34,8 +34,8 @@ To solve my problem of general laziness (i.e. not wanting to go though the troub
 
 This was great and all, but it still didn't solve my want to lower my server costs. I had to reconsider where I was hosting my portfolio, and what I can live with and without. 
 
-There were multiple options on how to host the Jekyll site, but I chose what seems the easiest (and cheapest, can't beat free) - GitHub Pages. GitHub recognizes that this site is a Jekyll site and _actually runs the compile for you_ when you push to whatever branch GitHub Pages is being served from. 
+There were multiple options on how to host the Jekyll site, but I chose what seems the easiest (and cheapest, can't beat free) - GitHub Pages. GitHub recognizes that this site is a Jekyll site and _actually runs the compile for you_ when you push to whatever branch GitHub Pages is being served from. Also, it solves one of my minor gripes of renewing the SSL certificate every three months (GitHub issues you an SSL certificate that renews itself for free).
 
 And to be honest, I am incredibly happy with the results. 
 
-It actually makes me _want to_ update the site - it is that easy. If you are considering creating a new personal site or refactoring an old one, I highly recommend that you use Jekyll with GitHub pages. The setup was painless, it reduced my yearly costs by over 80%, and it's a joy to work and modify. 
+It actually makes me _want to_ update the site - it is that easy. If you are considering creating a new personal site or refactoring an old one, I highly recommend that you use Jekyll with GitHub Pages. The setup was painless, it reduced my yearly costs by over 80%, and it's a joy to work with and modify. 
