@@ -2,8 +2,8 @@
   date: "2018"
   description: |
     A general information site for Quaver's new SaaS and Curriculum, Social and Emotional Learning. It is used as a 'portal'
-    to the SaaS, and offers a 30-day Preview of the product. Built on WordPress via custom theme development, Advanced Custom Fields, 
-    Keap form builders, and API's that connect the user to the SaaS (via the 30-day Preview). 
+    to the software, and offers a 30-day Preview of it as well. Built on WordPress via custom theme development, Advanced Custom Fields, 
+    Keap forms, and API's that enable the Preview.
   url: "https://www.quaversel.com/info/"
   image: "quaver_sel.png"
 - name: "James E. Walker Library"
@@ -20,6 +20,12 @@
     site by over 80%. 
   url: "https://vessel.titaninswebsites.com/"
   image: "vessel.png"
+- name: "Vintage Burkitt Station"
+  date: "2018"
+  description: |
+    A complete custom design and website build, given customer specifications and requirements. Includes blog and custom form.
+  url: "https://vintageburkittstation.com/"
+  image: "vintage.png"
 - name: "Premier Turf Management"
   date: "2018"
   description: |
