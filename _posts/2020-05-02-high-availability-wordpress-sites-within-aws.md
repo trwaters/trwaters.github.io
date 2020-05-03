@@ -58,7 +58,7 @@ If everything is set up correctly, the new EC2 instance will be a perfect clone 
 
 Lastly, we need to configure the CDN. Set up a new distribution, use your settings of choice, and have the origin be the Load Balancer. Configure the domain to point to the CDN. 
 
-(If you don't use any domain providor yet and/or haven't bought the domain name from somewhere, I recommend AWS's Route 53. It has an A record ALIAS feature that solves the issue of the CDN cycling through different IP addresses. If you don't have Route 53, that's okay - just point the www. CNAME to the CDN, and have the A @ record point somewhere that can redirect to the www. Maybe setup one of the EC2 instances within the Auto Scaling group to be protected from scaling in, allocate an elastic IP to the EC2 instance, and point the A record there.)
+(If you don't use any domain provider yet and/or haven't bought the domain name from somewhere, I recommend AWS's Route 53. It has an A record ALIAS feature that solves the issue of the CDN cycling through different IP addresses. If you don't have Route 53, that's okay - just point the www. CNAME to the CDN, and have the A @ record point somewhere that can redirect to the www. Maybe setup one of the EC2 instances within the Auto Scaling group to be protected from scaling in, allocate an elastic IP to the EC2 instance, and point the A record there.)
 
 Done! You now have a lean, mean, WordPress machine that can handle a good amount of requests without breaking a sweat. You can now suspend or terminate the EC2 instance you created in the beginning (to create the image).
 
