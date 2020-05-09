@@ -37,12 +37,12 @@ contact_urls:
 # paginate: 5
 # paginate_path: "/blog/page:num"
 # permalink: "/blog/:year/:month/:day/:title/"
-# sass:
-#   sass_dir: "/assets/css"
-#   style: :compressed
-# highlighter: rouge
-# timezone: 'America/Los_Angeles'
-# repository: trwaters.github.io
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'America/Los_Angeles'
+repository: trwaters.github.io
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -81,8 +81,8 @@ kramdown:
     css_class: 'highlight'
 
 # Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+# sass:
+#   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
