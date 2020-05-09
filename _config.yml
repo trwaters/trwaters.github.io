@@ -56,17 +56,3 @@ gems:
 #markdown: kramdown
 #kramdown:
 #   math_engine: mathjax
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-  
-# Exclude these files from your production _site
-exclude:
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
