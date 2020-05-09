@@ -1,4 +1,4 @@
-# Tim Waters Home Page
+# Tim Waters' Home Page
 
 This is the code for [my personal website](https://trwaters.github.io) - a fork from [Yevgeniy Brikman's Home Page](httpsL//www.ybrikman.com).
 
