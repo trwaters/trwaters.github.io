@@ -1,6 +1,6 @@
 # Tim Waters' Home Page
 
-This is the code for [my personal website](https://trwaters.github.io) - a fork from [Yevgeniy Brikman's Home Page](httpsL//www.ybrikman.com)...actually, I forked [Robert Spurlin's fork](https://github.com/robertspurlin), as he already went to the trouble of deleting many things from Brikman's extensive site.  I have not deleted the blog, only suppressed the link to it.  In fact, I added Mathjax to it, as I may one day soon start a blog (I set this up in May 2020 after all while still quarantined at home). 
+This is the code for [my personal website](https://trwaters.github.io) - a fork from [Yevgeniy Brikman's Home Page](https://www.ybrikman.com)...actually, I forked [Robert Spurlin's fork](https://github.com/robertspurlin/robertspurlin.github.io), as he already went to the trouble of deleting many things from Brikman's extensive site.  I have not deleted the blog, only suppressed the link to it.  In fact, I added Mathjax to it, as I may one day soon start a blog (I set this up in May 2020 after all while still quarantined at home). 
 
 ## Copy this site for yourself
 
