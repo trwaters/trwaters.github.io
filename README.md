@@ -1,13 +1,10 @@
-# Robert Spurlin Home Page
+# Tim Waters Home Page
 
-This is the code for the [Robert Spurlin Home Page](https://robertspurlin.com) - a fork from [Yevgeniy Brikman's Home Page](httpsL//www.ybrikman.com).
+This is the code for [my personal website](https://trwaters.github.io) - a fork from [Yevgeniy Brikman's Home Page](httpsL//www.ybrikman.com).
 
-One of my first real dives into static page generators in an effort to make my personal website more maintainable and less costly to upkeep. Also, it now houses my blog and has potential to be the home for more things in the future - stay turned. 
+I've deleted many things from Brikman's extensive site.  I have not deleted the blog, only suppressed the link to it.  In fact, I added Mathjax to it, as I may one day soon start a blog (I set this up in May 2020 after all while still quarantined at home). 
 
-
-
-
-## Quick start
+## Copy this site for yourself
 
 1. Use Git to clone this repo.
 1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
@@ -17,22 +14,6 @@ One of my first real dives into static page generators in an effort to make my p
 
 See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 documentation for more info.
-
-
-
-
-## Docker quick start
-
-As an alternative to installing Ruby and Jekyll, if you're a user of
-[Docker](https://www.docker.com/), you can run a Docker image of
-yevgeniy-brikman-homepage that has all the dependencies already setup for you.
-
-1. `git clone` this repo
-2. `docker-compose up`
-3. Go to `http://localhost:4000` to test
-
-
-
 
 ## Technologies
 
