@@ -52,6 +52,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
+markdown:GFM
 # Latex support
 #markdown: kramdown
 #kramdown:
