@@ -30,7 +30,7 @@ contact_urls:
   email:
     url: "mailto:tim.waters@unlv.edu"
     label: "Email"
-    value: "rtim.waters@unlv.edu"
+    value: "tim.waters@unlv.edu"
     icon: "envelope-square"
 
 # Jekyll build settings
