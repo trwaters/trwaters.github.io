@@ -1,40 +1,67 @@
-- name: "Quaver SEL"
-  date: "2018"
+- name: "Clumpy outflows"
+  date: "2020"
   description: |
-    A general information site for Quaver's new SaaS and Curriculum, Social and Emotional Learning. It is used as a 'portal'
-    to the software, and offers a 30-day Preview of it as well. Built on WordPress via custom theme development, Advanced Custom Fields, 
-    Keap forms, and API's that enable the Preview.
-  url: "https://www.quaversel.com/info/"
-  image: "quaver_sel.png"
-- name: "James E. Walker Library"
-  date: "2018"
+    Observations of AGN outflows reveal them to be clumpy.  Here is the first ever demonstration that 
+    classical thermal instability can be triggered in an outflow, which may ultimately explain such observations.  
+    This project was led by PhD student Randall Dannen.  More information can be found in this 
+    <a href="https://www.unlv.edu/news/accomplishments/randall-dannen" target="_blank">UNLV highlight</a>.
+  url: "http://www.physics.unlv.edu/astro/clumpywindsims.html"
+  image: "clumpyoutflow.jpeg"
+- name: "Outflows from inflows"
+  date: "2020"
   description: |
-    A complete refresh of the Library's entire web presence to closely match the design principles of the University while catering to
-    the needs of the patrons. Built on a Library-specific CMS (SpringShare LibGuides).
-  url: "https://library.mtsu.edu/"
-  image: "library.png"
-- name: "'Vessel Insurance' Theme"
-  date: "2018"
+    A classic solution in astrophysical gas dynamics is spherically symmetric accretion onto a black hole.  
+    Despite being a highly idealized solution, one would not expect an infintesimal change in the boundary
+    conditions to result in a qualitatively different solution.  Yet that is precisely what happens: a tiny
+    density inhomogeneity placed far enough away from the black hole will not permit pure inflow.  We demonstrated
+    that an outflow must develop as a consequence of angular momentum conservation.  
+    More generally, we showed that solutions to the 'inhomogenous Bondi problem' must satisfy the integral condition shown at left.
+  url: "https://trwaters.github.io/OutflowsFromInflows/"
+  image: "integral_bondi.png"
+- name: "Calculations of radiation forces in AGN"
+  date: "2019"
   description: |
-    A complete and highly customizable WordPress theme, built for insurance agencies. The theme shrunk overall development time for each 
-    site by over 80%. 
-  url: "https://vessel.titaninswebsites.com/"
-  image: "vessel.png"
-- name: "Vintage Burkitt Station"
-  date: "2018"
+    There is a famous characteristic luminosity in astrophysics known as the Eddington limit, which is the luminosity
+    that would give rise to a radiation force equal to the force of gravity, allowing gas to levitate at this limit and
+    get pushed outward above it. The Eddington limit applies to radiation pressure acting on free electrons.  
+    If only hydrogen is fully ionized, then there will typically be an enormous opacity due to ions heavier than hydrogen.
+    In this project, led by PhD student Randall Dannen, we calculated the radiation force due to this 'line opacity'.
+    We find that radiation forces can surpass gravity in sources emitting far below the Eddington limit, so that radiation driven
+    outflows are expected to be commonplace in AGN.  
+  url: "http://www.physics.unlv.edu/astro/xstartables.html"
+  image: "fmults.png"
+- name: "Cloud coalescence"
+  date: "2019"
   description: |
-    A complete custom design and website build, given customer specifications and requirements. Includes blog and custom form.
-  url: "https://vintageburkittstation.com/"
-  image: "vintage.png"
-- name: "Premier Turf Management"
-  date: "2018"
+    The word 'coalescence' in astrophysics is typically used to describe one of the most energetic events in the universe: 
+    the merging of binary compact objects such as black holes.  On the opposite end of the energy spectrum 
+    is a purely gas dynamical process that causes astrophysical clouds to coalesce.  This occurence, uncovered 
+    while exploring the nonlinear dynamics of interacting clouds formed from thermal instability,
+    is shown to be a genuine instability that is generic to multiphase environments.  
+  url: "http://www.physics.unlv.edu/astro/WP19bSims.html"
+  image: "coalescence.png"
+- name: "Non-isobaric thermal instability"
+  date: "2019"
   description: |
-    A complete custom design and website build, given customer specifications and requirements. Includes Instagram integration and contact form.
-  url: "https://mygreenyard.com/"
-  image: "premier_turf.png"
-- name: "Stanford Law Firm"
-  date: "2018"
+    Thermal instability (TI) is a linear instability of non-adiabatic gas dynamics.  While the linear theory was thoroughly
+    worked out in 1965 by George Field, in this work we clarified some subtleties that arise when clouds become very large, 
+    meaning one side loses causal contact with the other (via communication through sound waves).  
+    We identified 7 regimes of instability, as summarized in the Table at left, which reveals that very large wavelength sound waves
+    do not even exist in an unstable plasma unless it is unstable by both the isobaric and isochoric instability criteria identified by Field.  
+    The animations reveal that large (i.e. non-isobaric) clouds formed from TI tend to oscillate,
+    and the cloud coalescence project above further demonstrates that such oscillations are also a generic property of multiphase gas
+    dynamics.  
+  url: "http://www.physics.unlv.edu/astro/WP19aSims.html"
+  image: "nonisobaricTI.png"
+- name: "Cloud formation and acceleration"
+  date: "2015"
   description: |
-    A complete custom design and website build, given customer specifications and requirements. Includes blog and contact form. 
-  url: "https://www.stanfordtnlaw.com/"
-  image: "stanford.png"
+    This project laid some important ground work for several of the above projects, as it was here that we first
+    showed how to simulate cloud formation due to thermal instability while self-consistently accounting for the radiation force 
+    that must become important as ions recombine.
+    In one <a href="http://www.physics.unlv.edu/astro/wp16sims.html" target="_blank">followup paper</a>, 
+    we showed that adding flux variability can have interesting dynamical effects.  And in
+    <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank"> another</a>,
+    we showed that common doublet lines can in principle be used to detect cloud acceleration along the line of sight.
+  url: "http://www.physics.unlv.edu/astro/pw15sims.html"
+  image: "cloudaccel.png"

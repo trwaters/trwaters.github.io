@@ -2,20 +2,26 @@
   <div class="col sm-col-9 px2">
     <h3 class="mb2">About Me</h3>
     <p>
-      Robert Spurlin loves programming, problem solving, and sleeping in on Saturdays. He is currently a
-      full-stack web developer at <a href='https://www.quavermusic.com/info'>Quaver Music</a>, a company that provides
-      SaaS educational resources to pre-secondary Music and SEL teachers. <br><br>
-      Robert was also a web developer at
-      James E. Walker Library of Middle Tennessee State University (MTSU) and Titan Web Marketing Solutions.
+      I’m currently a postdoc at the University of Nevada, Las Vegas (UNLV) working in Daniel Proga's group.
+      I was formally a postdoc in the Theoretical Division at Los Alamos National Laboratory in Hui Li's plasma astrophysics group.
+      I obtained my PhD in 2017 under Daniel Proga at UNLV.  
       <br><br>
-      He earned his Bachelors of Business Administration in Marketing from MTSU in 2018. 
+      I specialize in modeling the UV and X-ray dominated environments of low-mass X-ray binaries (the stellar mass black holes observed in our own galaxy) and active galactic nuclei (actively accreting supermassive black holes in distant galaxies). I’m especially interested in developing computational models that are realistic enough to be used to produce synthetic spectra, so that a direct comparison with observational data can be made. In this sense, I consider myself a theoretical X-ray astronomer.
       <br><br>
-      Check out his <a
-        href="{{ site.nav.main.projects }}">Projects</a> and his <a href="{{ site.nav.main.blog }}">Blog</a>.
+      Much of my work involves solving the equations of non-adiabatic hydrodynamics or magnetohydrodynamics (MHD) numerically.  
+      For this, I mainly use the code <a href='https://princetonuniversity.github.io/athena/'>Athena++</a>,
+      although I sometimes also use <a href='https://gitlab.com/pgrete/kathena'>K-Athena</a>, 
+      a GPU code based on Athena++ that is built using <a href='https://github.com/kokkos'>Kokkos</a>,
+      as well as <a href='https://github.com/cholla-hydro/cholla'>Cholla</a>, a GPU hydro code written in 
+      <a href='https://developer.nvidia.com/about-cuda'>CUDA</a>.
+            <br><br>
+      On my <a href="{{ site.nav.main.projects }}">projects</a> page, I list links to any research projects for which I've created accompanying webpages.
+      <!-- &mdash;mostly those where we've needed to run hydro simulations.-->  
+      Besides showcasing how our group's animation tools have evolved over the years, it serves to illustrate how two very different modeling approaches &mdash; local simulations to better understand multiphase gas dynamics and global accretion&#8725;outflow simulations to probe large scale dynamics &mdash; are now beginning to come together.
     </p>
   </div>
   <div class="col sm-col-3 px2">
-    <h3 class="mb2">Contact</h3>
+    <h3 class="mb2">Connect</h3>
     {% include contact.html %}
   </div>
 </div>

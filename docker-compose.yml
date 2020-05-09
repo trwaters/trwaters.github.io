@@ -12,7 +12,7 @@ services:
     ports:
       - "4000:4000"
     environment:
-      - LIMIT_POSTS=5
+      - LIMIT_POSTS=10
 
 volumes:
   site:
