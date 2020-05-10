@@ -33,13 +33,13 @@ documentation for more info.
 1. Free SSL and CDN provided by [CloudFlare](https://www.cloudflare.com/).    
 1. The design is loosely based on [Kasper](https://github.com/rosario/kasper),
    [Pixyll](http://pixyll.com/), and [Medium](https://medium.com/).
-1. I used [Basscss](http://www.basscss.com/), [Sass](http://sass-lang.com/),
+1. Uses [Basscss](http://www.basscss.com/), [Sass](http://sass-lang.com/),
    [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/),
    [Hint.css](http://kushagragour.in/lab/hint/),and
    [Google Fonts](https://www.google.com/fonts) for styling.
-1. I used [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/),
+1. Uses [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/),
    and [responsive-nav.js](http://responsive-nav.com/) for behavior.
-1. I'm using [Google Analytics](http://www.google.com/analytics/) for monitoring and
+1. Uses [Google Analytics](http://www.google.com/analytics/) for monitoring and
    metrics.
 
 
