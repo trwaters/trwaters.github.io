@@ -1,8 +1,15 @@
 # Tim Waters' Home Page
 
-This is the code for [my personal website](https://trwaters.github.io) - a fork from [Yevgeniy Brikman's Home Page](https://www.ybrikman.com)...actually, I forked [Robert Spurlin's fork](https://github.com/robertspurlin/robertspurlin.github.io), as he already went to the trouble of deleting many things from Brikman's extensive site.  I have not deleted the blog, only suppressed the link to it.  In fact, I added Mathjax to it, as I may one day soon start a blog (I set this up in May 2020 after all while still quarantined at home). 
+This is the code for [my personal website](https://trwaters.github.io) - a clone of [Robert Spurlin's fork](https://github.com/robertspurlin/robertspurlin.github.io) of [Yevgeniy Brikman's Home Page](https://www.ybrikman.com).  I have not deleted the blog, only de-activated the link to it in `_config.yml`; in fact, I added Mathjax to it, as who knows, I may have the urge to blog soon (after all, it's May 2020 right now and I'm working from home during the pandemic). 
 
-## Copy this site for yourself
+## How to make a personal website based on this site
+
+1. Fork this site
+1. Rename the repo to myusername.github.io
+1. Check the Settings to make sure it is set as `master` (not github pages) and that it built correctly.
+1. Change `trwaters` in `_config.yml` to your username and update the twitter handle, etc.
+
+## How to copy make a local build of this site on your PC
 
 1. Use Git to clone this repo.
 1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
