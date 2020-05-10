@@ -17,6 +17,7 @@ This is the code for [my personal website](https://trwaters.github.io) - a clone
 1. Rename `_config.yml` to something different such as `_config.yml.github` and then rename `_config.yml.local` to `_config.yml`.  
 1. To build the local site and serve it: `bundle exec jekyll serve`.
 1. To test: in a browser, go to `http://localhost:4000`.
+1. Use ```git update-index --assume-unchanged Gemfile``` and ```git update-index --assume-unchanged _config.ylm``` to not sync these files once all setup.  
 
 See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 documentation for more info.
