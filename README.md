@@ -9,7 +9,7 @@ This is the code for [my personal website](https://trwaters.github.io) - a clone
 1. Check the Settings to make sure it is set as `master` (not github pages) and that it built correctly.
 1. Change `trwaters` in `_config.yml` to your username and update the twitter handle, etc.
 
-## How to copy make a local build of this site on your PC
+## How to make a local build of this site on your PC
 
 1. Use Git to clone this repo.
 1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
