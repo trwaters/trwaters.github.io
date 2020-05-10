@@ -1,0 +1,65 @@
+# Website settings
+url: "https://trwaters.github.io"
+
+# Internal nav
+nav:
+  main:
+    projects: "/projects"
+  #   blog: "/blog"
+
+  # blog:
+  #   all: "/blog"
+  #   popular: "/blog/popular"
+  #   tags: "/blog/tags"
+  #   rss: "/feed.xml"
+
+# Bio settings
+name: "Tim Waters"
+description: "The home page of Tim Waters."
+thumbnail_path: "profile-photos/profilepic.jpeg"
+website_repo_url: "https://github.com/trwaters.github.io"
+
+# URLs
+contact_urls:
+  twitter:
+    url: "https://twitter.com/thattimwaters"
+    label: "Twitter"
+    icon: "twitter-square"
+  github:
+    url: "https://github.com/trwaters/"
+    label: "GitHub"
+    icon: "github-square"
+  email:
+    url: "mailto:tim.waters@unlv.edu"
+    label: "Email"
+    value: "rtim.waters@unlv.edu"
+    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 5
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'America/Los_Angeles'
+repository: trwaters.github.io
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Latex support
+#markdown: kramdown
+#kramdown:
+#   math_engine: mathjax
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
