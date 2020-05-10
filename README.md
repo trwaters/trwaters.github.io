@@ -6,7 +6,7 @@ This is the code for [my personal website](https://trwaters.github.io) - a clone
 
 1. Fork this site
 1. Rename the repo to myusername.github.io
-1. If you're pushing a site that was first built locally (see below), then make sure that under the `branches` tab under settings, the repo is set to `master` (not gh-pages).  Then in the GitHub Pages section of the Options tab of Settings, make sure the site built correctly (and if not, debug).
+1. If you're pushing a site that was first built locally (see below), then make sure that under the `Branches` tab under Settings, the repo is set to `master` (not gh-pages).  Then in the GitHub Pages section of the Options tab of Settings, make sure the site built correctly (and if not, debug).
 1. Change `trwaters` in `_config.yml` to your username and update the twitter handle, etc.
 
 ## How to make a local build of this site on your PC
