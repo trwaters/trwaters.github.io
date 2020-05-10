@@ -6,7 +6,7 @@ This is the code for [my personal website](https://trwaters.github.io) - a clone
 
 1. Fork this site
 1. Rename the repo to myusername.github.io
-1. Check the Settings to make sure it is set as `master` (not github pages) and that it built correctly.
+1. If you're pushing a site that was first built locally (see below), then make sure that under the `branches` tab under settings, the repo is set to `master` (not gh-pages).  Then in the GitHub Pages section of the Options tab of Settings, make sure the site built correctly (and if not, debug).
 1. Change `trwaters` in `_config.yml` to your username and update the twitter handle, etc.
 
 ## How to make a local build of this site on your PC
@@ -14,8 +14,9 @@ This is the code for [my personal website](https://trwaters.github.io) - a clone
 1. Use Git to clone this repo.
 1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
 1. Just the first time: `bundle install`.
-1. To build the site and serve it: `bundle exec jekyll serve`.
-1. To test: `http://localhost:4000`.
+1. Rename `_config.yml` to something different such as `_config.yml.github` and then rename `_config.yml.local` to `_config.yml`.  
+1. To build the local site and serve it: `bundle exec jekyll serve`.
+1. To test: in a browser, go to `http://localhost:4000`.
 
 See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 documentation for more info.
