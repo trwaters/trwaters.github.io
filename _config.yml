@@ -23,6 +23,10 @@ contact_urls:
     url: "https://twitter.com/thattimwaters"
     label: "Twitter"
     icon: "twitter-square"
+    linkedin:
+    url: "https://www.linkedin.com/in/thattimwaters"
+    label: "LinkedIn"
+    icon: "linkedin-square"
   github:
     url: "https://github.com/trwaters/"
     label: "GitHub"
