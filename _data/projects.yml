@@ -51,17 +51,16 @@
     The animations reveal that large (i.e. non-isobaric) clouds formed from TI tend to oscillate,
     and the cloud coalescence project above further demonstrates that such oscillations are also a generic property of multiphase gas
     dynamics.  
-  url: "http://www.physics.unlv.edu/astro/WP19aSims.html"
+  url: "http://www.physics.unlv.edu/astro/WP19aSims.html" 
   image: "nonisobaricTI.png"
 - name: "Cloud formation and acceleration"
   date: "2015"
   description: |
-    This project laid some important ground work for several of the above projects, as it was here that we first
-    showed how to simulate cloud formation due to thermal instability while self-consistently accounting for the radiation force 
-    that must become important as ions recombine.
-    In one <a href="http://www.physics.unlv.edu/astro/wp16sims.html" target="_blank">followup paper</a>, 
-    we showed that adding flux variability can have interesting dynamical effects.  And in
-    <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank"> another</a>,
+    This project follows up <a href="http://www.physics.unlv.edu/astro/pw15sims.html" target="_blank">one led by Daniel Proga</a>, 
+    where we laid some important ground work for several of the above projects, 
+    as there we showed how to simulate cloud formation due to thermal instability while self-consistently accounting for the radiation force 
+    that must become important as ions recombine. In this one we showed that adding flux variability can have interesting dynamical effects.  
+    And in <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank"> another followup paper</a>,
     we showed that common doublet lines can in principle be used to detect cloud acceleration along the line of sight.
-  url: "http://www.physics.unlv.edu/astro/pw15sims.html"
+  url: "http://www.physics.unlv.edu/astro/wp16sims.html"
   image: "cloudaccel.png"
