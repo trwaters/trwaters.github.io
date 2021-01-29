@@ -1,7 +1,7 @@
 - name: "Mulitiphase AGN disk winds"
   date: "2021"
   description: | 
-    The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting into supermassive 
+    The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting onto supermassive 
     black holes.  At light year distances from the black hole, the atmosphere of the accretion disk is irradiated by the 
     central X-rays and heated to high enough temperatures to drive a wind.  Here we model the dynamics of this system, 
     identifying a characteristic radius where the wind becomes multiphase due to classical thermal instability operating 
