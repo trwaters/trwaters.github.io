@@ -1,15 +1,15 @@
 - name: "Mulitiphase AGN disk winds"
-  date: "2020"
+  date: "2021"
   description: | 
     The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting into supermassive 
     black holes.  At light year distances from the black hole, the atmosphere of the accretion disk is irradiated by the 
-    central X-rays and heated to high enough temperatures to drive an outflow.  Here we model the dynamics of this system, 
-    identifying a characteristic radius where the outflow becomes multiphase due to classical thermal instability operating 
+    central X-rays and heated to high enough temperatures to drive a wind.  Here we model the dynamics of this system, 
+    identifying a characteristic radius where the wind becomes multiphase due to classical thermal instability operating 
     within large scale vortices present in the upper layers of the disk atmosphere.  
   url: "https://trwaters.github.io/multiphaseAGNdiskwinds/"
-  image: "tsunami_snapshot.jpeg"
-- name: "Multiphase AGN disk winds"
-  date: "2021"
+  image: "tsunami_snapshot.jpg"
+- name: "Clumpy AGN outflows"
+  date: "2020"
   description: |
     Observations of AGN outflows reveal them to be clumpy.  Here is the first ever demonstration that 
     classical thermal instability can be triggered in an outflow, which may ultimately explain such observations.  
