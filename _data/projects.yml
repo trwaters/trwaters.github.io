@@ -4,8 +4,8 @@
     More than half of all galaxies classified as active galactic nuclei (AGN) show blueshifted absorption lines in the X-ray band of their spectra. 
     The blueshifts indicate outflowing gas, and ions that can absorb X-ray photons only form in a high temperature plasma.  In the literature
     these ionized outflows are referred to as 'warm absorbers' -- 'warm' because the existence of these spectral features are often absent, implying 
-    that the plasma cam be so hot that any ions present are fully stripped of their electrons.  In this study, led by Daniel Proga and his graduate 
-    student Shalini Ganguly, we show that clumpy outflow models (see below) may explain this phenomenon.  The method used to calculate line profiles builds upon 
+    that the plasma cam be so hot that any ions present are fully stripped of their electrons.  In this study, led by Daniel Proga and PhD student
+    Shalini Ganguly, we show that clumpy outflow models (see below) may explain this phenomenon.  The method used to calculate line profiles builds upon 
     <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank">my previous work</a> and has general applicability. 
   url: "http://www.physics.unlv.edu/astro/clumpywindsims-lps.html"
   image: "fig14.jpg"
@@ -24,7 +24,7 @@
   description: |
     Observations of AGN outflows reveal them to be clumpy.  Here is the first ever demonstration that 
     classical thermal instability can be triggered in an outflow, which may ultimately explain such observations.  
-    This project was led by PhD student Randall Dannen and was the subject of both a 
+    This project, led by Daniel Proga and PhD student Randall Dannen, was the subject of both a 
     <a href="https://www.nasa.gov/feature/why-clouds-form-near-black-holes/" target="_blank">NASA press release</a>  
     and <a href="https://www.unlv.edu/news/accomplishments/randall-dannen" target="_blank">a UNLV highlight</a>.
   url: "http://www.physics.unlv.edu/astro/clumpywindsims.html"
