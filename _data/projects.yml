@@ -1,7 +1,7 @@
 - name: "Theoretical absorption line profiles of thermally driven outflows"
   date: "2021"
   description: | 
-    More than half of all galaxies classified as active galactic nuclei (AGN) show blueshifted absorption lines in the X-ray band of their spectra. 
+    More than half of all galaxies classified as active galactic nuclei (AGN) in the local universe show blueshifted absorption lines in the X-ray band of their spectra. 
     The blueshifts indicate outflowing gas, and ions that can absorb X-ray photons only form in a high temperature plasma.  In the literature
     these ionized outflows are referred to as 'warm absorbers' -- 'warm' because the existence of these spectral features are often absent, implying 
     that the plasma can be so hot that any ions present are fully stripped of their electrons.  In this study, led by Daniel Proga and PhD student
