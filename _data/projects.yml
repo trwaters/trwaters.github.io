@@ -1,3 +1,15 @@
+- name: "Theoretical absorption line profiles of thermally driven outflows"
+  date: "2021"
+  description: | 
+    More than half of all galaxies classified as active galactic nuclei (AGN) show blueshifted absorption lines in the X-ray band of their spectra. 
+    The blueshifts indicate outflowing gas, and ions that can absorb X-ray photons only form at high temperature, hence the gas responsible for 
+    this absorption, referred to in the literature as 'warm absorbers', is an ionized outflow.  The gas is 'warm' because the existence of these 
+    spectral features are often absent, implying that ordinarily the gas is even hotter (too hot to form these ions).  In this study, 
+    led by graduate student Shalini Ganguly, we show that clumpy outflow models (see below) may explain this phenomenon.  The method used to 
+    calculate line profiles builds upon <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank">my previous work</a> 
+    and has general applicability. 
+  url: "http://www.physics.unlv.edu/astro/clumpywindsims-lps.html"
+  image: "fig14.jpg"
 - name: "Multiphase AGN disk winds"
   date: "2021"
   description: | 
