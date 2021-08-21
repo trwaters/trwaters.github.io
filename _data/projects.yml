@@ -10,7 +10,7 @@
     <a href="https://www.nasa.gov/feature/supermassive-black-holes-may-generate-tsunamis-in-escaping-gas" target="_blank">NASA press release</a>.
     Additionally, a popular scicommer covered this result on <a href="https://www.youtube.com/watch?v=-7yALxF1wjw" target="_blank">youtube</a>.
   url: "https://trwaters.github.io/multiphaseAGNdiskwinds/"
-  image: "tsunami_snapshot.jpg"- 
+  image: "tsunami_snapshot.jpg"
 - name: "Theoretical absorption line profiles of thermally driven outflows"
   date: "2021"
   description: | 
@@ -26,7 +26,7 @@
   date: "2020"
   description: |
     Observations of AGN outflows reveal them to be clumpy.  Here is the first ever demonstration that 
-    classical thermal instability can be triggered in an outflow, which may ultimately explain such observations.  
+    classical thermal instability can be triggered in AGN outflow models, which may ultimately explain such observations.  
     This project, led by Daniel Proga and PhD student Randall Dannen, was the subject of both a 
     <a href="https://www.nasa.gov/feature/why-clouds-form-near-black-holes/" target="_blank">NASA press release</a>  
     and <a href="https://www.unlv.edu/news/accomplishments/randall-dannen" target="_blank">a UNLV highlight</a>.
