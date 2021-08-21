@@ -1,4 +1,17 @@
-- name: "Theoretical absorption line profiles of thermally driven outflows"
+- name: "Multiphase AGN disk winds"
+  date: "2021"
+  description: | 
+    The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting onto supermassive 
+    black holes.  At light year distances from such a black hole, the atmosphere of the accretion disk is irradiated by the 
+    central X-rays and heated to high enough temperatures to drive a wind.  Here we model the dynamics of this system, 
+    identifying a characteristic radius where the wind becomes multiphase due to classical thermal instability operating 
+    within large scale vortices present in the upper layers of the disk atmosphere.  Googling 'black hole tsunamis' will
+    show that this result generated a good deal of media attention, all stemming from this 
+    <a href="https://www.nasa.gov/feature/supermassive-black-holes-may-generate-tsunamis-in-escaping-gas" target="_blank">NASA press release</a>.
+    Additionally, a popular scicommer covered this result on <a href="https://www.youtube.com/watch?v=-7yALxF1wjw" target="_blank">youtube</a>.
+  url: "https://trwaters.github.io/multiphaseAGNdiskwinds/"
+  image: "tsunami_snapshot.jpg"- 
+  name: "Theoretical absorption line profiles of thermally driven outflows"
   date: "2021"
   description: | 
     More than half of all galaxies classified as active galactic nuclei (AGN) in the nearby universe show blueshifted absorption lines in the X-ray band of their spectra. 
@@ -9,16 +22,6 @@
     <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.3160W/abstract" target="_blank">my previous work</a> and has general applicability. 
   url: "http://www.physics.unlv.edu/astro/clumpywindsims-lps.html"
   image: "fig14.jpg"
-- name: "Multiphase AGN disk winds"
-  date: "2021"
-  description: | 
-    The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting onto supermassive 
-    black holes.  At light year distances from such a black hole, the atmosphere of the accretion disk is irradiated by the 
-    central X-rays and heated to high enough temperatures to drive a wind.  Here we model the dynamics of this system, 
-    identifying a characteristic radius where the wind becomes multiphase due to classical thermal instability operating 
-    within large scale vortices present in the upper layers of the disk atmosphere.  
-  url: "https://trwaters.github.io/multiphaseAGNdiskwinds/"
-  image: "tsunami_snapshot.jpg"
 - name: "Clumpy AGN outflows"
   date: "2020"
   description: |
