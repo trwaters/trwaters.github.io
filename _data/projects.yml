@@ -11,7 +11,7 @@
     Additionally, a popular scicommer covered this result on <a href="https://www.youtube.com/watch?v=-7yALxF1wjw" target="_blank">youtube</a>.
   url: "https://trwaters.github.io/multiphaseAGNdiskwinds/"
   image: "tsunami_snapshot.jpg"- 
-  name: "Theoretical absorption line profiles of thermally driven outflows"
+- name: "Theoretical absorption line profiles of thermally driven outflows"
   date: "2021"
   description: | 
     More than half of all galaxies classified as active galactic nuclei (AGN) in the nearby universe show blueshifted absorption lines in the X-ray band of their spectra. 
