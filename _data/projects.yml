@@ -6,11 +6,10 @@
     in the range 9,000 - 90,000 km/s.  (For comparison, the solar wind speed varies between 300 and 800 km/s).  
     They are most often detected in hard X-ray spectra, mainly in absorption lines of H-like and He-like Fe ions. 
     However, they have also been identified in soft X-rays, prompting the need to explain how this lower ionization 
-    gas component can co-exist with the hotter plasma containing only Fe ions.  Some models propose this soft X-ray component
-    is formed in a cooling shock or from entrained clouds, but such models cannot account for recent observations showing that the
-    soft and hard X-ray components can have the same blueshift.  Here we find that UFOs are expected to be thermally unstable and that
-    the clumps that form will have the same velocity.  As a biproduct, we show how a ratio of dynamical and thermal timescales enters
-    linear theory.  Prior simulations of dynamical TI had established the importance of this ratio without showing how it arises.  
+    gas component can co-exist with the hotter plasma containing only Fe ions.  Here we find that UFOs are expected 
+    to be thermally unstable and that the clumps that form will have the same velocity.  As a biproduct, we show how 
+    a ratio of dynamical and thermal timescales enterslinear theory.  Prior simulations of dynamical TI had 
+    established the importance of this ratio without showing how it arises.  
   url: "https://trwaters.github.io/dynamicalTI/"
   image: "sketch.jpeg"
 - name: "Multiphase AGN disk winds"
