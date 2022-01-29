@@ -20,11 +20,11 @@ website_repo_url: "https://github.com/trwaters/trwaters.github.io"
 # URLs
 contact_urls:
   twitter:
-    url: "https://twitter.com/thattimwaters"
+    url: "https://twitter.com/trwaters_"
     label: "Twitter"
     icon: "twitter-square"
   linkedin:
-    url: "https://www.linkedin.com/in/trwaters_"
+    url: "https://www.linkedin.com/in/trwaters"
     label: "LinkedIn"
     icon: "linkedin-square"
   github:
