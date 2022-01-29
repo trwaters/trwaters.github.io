@@ -22,7 +22,7 @@ website_repo_url: "https://github.com/trwaters.github.io"
 # URLs
 contact_urls:
   twitter:
-    url: "https://twitter.com/thattimwaters"
+    url: "https://twitter.com/trwaters_"
     label: "Twitter"
     icon: "twitter-square"
   github:
