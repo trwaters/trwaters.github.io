@@ -16,7 +16,7 @@ nav:
 # Bio settings
 name: "Tim Waters"
 description: "The home page of Tim Waters."
-thumbnail_path: "profile-photos/profilepic.jpeg"
+thumbnail_path: "profile-photos/website_pic.jpg"
 website_repo_url: "https://github.com/trwaters.github.io"
 
 # URLs
