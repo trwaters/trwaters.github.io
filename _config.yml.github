@@ -32,9 +32,9 @@ contact_urls:
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:tim.waters@unlv.edu"
+    url: "mailto:waters@lanl.gov"
     label: "Email"
-    value: "tim.waters@unlv.edu"
+    value: "waters@lanl.gov"
     icon: "envelope-square"
 
 # Jekyll build settings
