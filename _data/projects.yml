@@ -17,7 +17,7 @@
     The X-ray sky is filled with millions of bright point sources that we know to be hot plasma accreting onto supermassive 
     black holes.  At light year distances from such a black hole, the atmosphere of the accretion disk is irradiated by the 
     central X-rays and heated to high enough temperatures to drive a wind.  Here we model the dynamics of this system, 
-    identifying a characteristic radius where the wind becomes multiphase due to classical thermal instability operating 
+    identifying a characteristic radius where the wind becomes multiphase due to local thermal instability operating 
     within large scale vortices present in the upper layers of the disk atmosphere.  Googling 'black hole tsunamis' will
     show that this result generated a good deal of media attention, all stemming from this 
     <a href="https://www.nasa.gov/feature/supermassive-black-holes-may-generate-tsunamis-in-escaping-gas" target="_blank">NASA press release</a>.
